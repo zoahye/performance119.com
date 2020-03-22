@@ -23,3 +23,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
+
+# 블로그 disqus shortname
+disqus:
+  shortname: performance119

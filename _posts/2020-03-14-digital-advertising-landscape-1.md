@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /digial-advertising-tech-landscape/
+permalink: /digial-advertising-tech-landscape-1/
 title: 'Digital Advertising Technology Landscape에 대해 알아보기 -1편-'
 date: 2020-03-14 11:30:00 +09:00
 feature: '/img/posts/02/bg-post-thumb-02.png'
@@ -12,7 +12,7 @@ tags:
   - AdTech
   - DigitalAdvertising
   - Landscape
-description: '프로그래매틱 바잉에 대한 용어와 개념, 그리고 디지털 광고의 미래에 대하여이번 포스팅에서는 프로그매틱 바잉 생태계를 다루기에 앞서, 디지털 광고의 주체들과 이들로 인해 파생된 다양한 Ad tech 조직들 그리고 광고 솔루션 플랫폼과 데이터 제공 업체 등을 포괄하는 전반적인 디지털 광고 생태계에 대해 먼저 살펴보고자 한다.'
+description: '프로그매틱 바잉 생태계를 다루기에 앞서, 디지털 광고의 주체들과 이들로 인해 파생된 다양한 Ad tech 조직들 그리고 광고 솔루션 플랫폼과 데이터 제공 업체 등을 포괄하는 전반적인 디지털 광고 생태계에 대해 먼저 살펴보고자 한다.'
 ---
 
 
