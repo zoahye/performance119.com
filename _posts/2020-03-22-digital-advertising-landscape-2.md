@@ -29,7 +29,11 @@ description: '디지털 광고의 투명한 거래를 위해 활용할 수 있�
 
  
 
-![랜드스케이프](/img/posts/01/01.JPG)
+
+
+![Programmatic Ad Ecosystem in KR](/img/posts/03/prog-echo.JPG)
+
+
 
 
 
@@ -73,7 +77,7 @@ Ad Network는 특정 퍼블리셔의 인벤토리를 판매할 수 있는 독점
 
 이처럼 애드 네트워크가 광고주와 매체사의 중간 매개체 역할을 하며, 광고주는 타겟 오디언스에 도달하기 위해 보다 다양한 지면을 하나의 창구를 통해 통합 구매 및 관리가 가능하게 되었으며, 매체사의 경우 다이렉트로 팔고 남는 인벤토리에 대한 수익도 추가로 가지고 갈 수 있게 되었다. 
 
-ex. Google Display Network, EDN Plus, Cauly, Tnk, Inmonbi, et c.
+ex. Google Display Network, EDN Plus, Cauly, Tnk, Inmonbi, etc.
 
 
 
@@ -82,6 +86,10 @@ ex. Google Display Network, EDN Plus, Cauly, Tnk, Inmonbi, et c.
 애드 네트워크는 광고 인벤토리의 판매와 구매를 모두 자동화 해놓은 기술적 플랫폼이다.  매체사의 지면들을 프로그래매틱하게 구매 및 판매할 수 있는 환경을 만들어, 온라인 광고 거래를 훨씬 더 효율적으로 만들어 주는 똑똑한 기술 플랫폼이라 볼 수 있다. 익스체인지 전반에 걸쳐 광고를 판매하는 방법은 보통 실시간 입찰(RTB)을 통해서 이루어 지는 경우가 많다. 광고주가 DSP를 통해 Ad Exchange상 이용 가능한 인벤토리에 접근하고자 하면, 매체사는 SSP를 통해 이용 가능한 인벤토리를 제공하는 형식이다.  
 
 ex. Doubleclick Ad Exchange, Appnexus, Microsoft Ad Exchange, OpenX, Rubicon, etc.
+
+
+
+이번 시간을 통해 매체사/애드 네트워트/애드 익스체인지에 대한 개념이 조금이나마 그려진다면, 다음 포스팅에서는 DSP/DMP/SSP와 Data Suppliers에 대해 조금 더 심도있게 다뤄보고자 한다.
 
 
 
