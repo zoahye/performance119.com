@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://performance119.com/sitemap.xml
