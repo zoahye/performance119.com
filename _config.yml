@@ -1,8 +1,8 @@
 title:              "PERPORMANCE 119"
 tagline:            "프로그래매틱 광고로 똑똑하게 FLEX 하는 법"
 email:              "sugar_crush@naver.com"
-description:        "Data-driven, Audience-oriented Planning, Activation and Optimization"
-author:             "정다혜"
+description:        "Data-driven｜Audience-oriented Planning｜Activation｜Optimization"
+author:             "Joy"
 baseurl:            "/"
 url:                "https://performance119.com/"
 locale:             "ko_KR"
@@ -11,8 +11,8 @@ thumbnail:          "/img/blog-thum.png"
 # Social Profiles
 twitter_username:   twitter_username
 instagram_username: instagram_username
-facebook_username:  facebook_username
-linkedin_username:  linkedin_username
+facebook_username:  facebook_zoahye
+linkedin_username:  linkedin_dahye-jung-2a3188184
 
 # Build settings
 markdown:           kramdown
