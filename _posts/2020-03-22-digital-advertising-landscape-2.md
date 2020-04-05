@@ -9,12 +9,12 @@ categories:
   - intro
 tags:
   - ProgrammaticAd
-
   - AdTech
-  - DigitalAdvertising
-  - DSP
-  - DMP
-description: '디지털 광고의 투명한 거래를 위해 활용할 수 있는 여러 3rd party tech vendor(Measurement, Verification)와 Programmatic Ad의 근간인 DSP, SSP, DMP(+Data Suppliers) 그리고 Ad Network와 Ad Exchange에 대해 알아보고자 한다.'
+  - Measurement
+  - Verification
+  - AdNetwork
+  - AdExchange
+description: '디지털 광고의 투명한 거래를 위해 활용할 수 있는 여러 3rd party tech vendor들(Measurement, Verification)과, 애드 네트워크 및 에드 익스체인지에 대한 개념과 그 종류에 대하여'
 ---
 
 
@@ -25,7 +25,7 @@ description: '디지털 광고의 투명한 거래를 위해 활용할 수 있�
 
 
 
-디지털 광고의 투명한 거래를 위해 활용할 수 있는 여러 3rd party tech vendor(Measurement, Verification)와 Programmatic Ad의 근간인 DSP, SSP, DMP(+Data Suppliers) 그리고 Ad Network와 Ad Exchange에 대해 알아보고자 한다.
+DIgital Advertising Tech Landscape 2편에서는 디지털 광고의 투명한 거래를 위해 활용할 수 있는 여러 3rd party tech vendor들(Measurement, Verification)과, 애드 네트워크 및 에드 익스체인지에 대한 개념과 그 종류에 대해 알아보고자 한다.
 
  
 
