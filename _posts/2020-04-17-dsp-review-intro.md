@@ -14,7 +14,7 @@ tags:
   - TheTradeDesk
   - AppNexus
   - AbobeDSP
-description: 'Programmatic Trader로서 다뤄왔던 Global DSP에 대한 실사용기와 각 플랫폼 별 장단점에 대한 리뷰'
+description: 'Programmatic Trader로서 다뤄왔던 Global DSP에 대한 실사용기와 각 플랫폼 별 장단점에 대해 살펴보고자 한다.'
 ---
 
 
@@ -42,10 +42,6 @@ description: 'Programmatic Trader로서 다뤄왔던 Global DSP에 대한 실사
 
 
 그래서 오늘은 이제껏 다루어와 봤었던 DSP들에 대한 전체적인 리뷰와 각 플랫폼 별 장/단점에 대해 한 번 정리해보고자 한다. 최근에는 종대사에서도 퍼포먼스 조직을 따로 꾸리는 듯 하고, 아예 광고주 사이드에서 내부적으로 팀을 구성하여 Self-Serve 플랫폼이나 DSP를 활용한 광고 캠페인을 많이 운영하고 있는 듯 하다. 혹, 이 글을 보시는 분들 중에서도 DSP를 활용하여 Ad Serving 및 캠페인 운영을 하고자 하는 사람이 있다면, DSP 선택에 있어 이번 포스팅이 많은 도움이 되길 바란다.
-
-
-
-<br>
 
 <br>
 
@@ -95,10 +91,6 @@ description: 'Programmatic Trader로서 다뤄왔던 Global DSP에 대한 실사
 
 하지만… 이와는 별개로 Google Korea의 DV360 업무 서포트는 시급해 보임. 만들어주세요 KR팀…
 
-
-
-<br>
-
 <br>
 
 **｜The Trade Desk**
@@ -133,11 +125,7 @@ TTD의 경우 DV360과 달리 플랫폼 내에서 Zero Cost로 활용할 수 있
 
 ③ Analytic 적인 부분에 대한 아쉬움. DV360의 경우 플랫폼 내에서 Audience Analytics라는 섹션이 별도로 있어 광고주 사이트에 심겨진 픽셀을 기반으로 오디언스 분석이 가능하다. 물론 TTD에도 이 비슷한 기능을 하는 Planner라는 툴이 있긴하나, DV360처럼 바로 데이터가 도출되지는 않고 생성 후 반나절~하루 정도는 기다려야 데이터 확인이 가능하다.
 
-<br>
-
 -
-
-<br>
 
 AppNexus랑 Adobe도 추가 코멘트하고 싶은데, 오늘은 기력이 너무 딸려서 여기까지...
 
@@ -155,25 +143,17 @@ AppNexus랑 Adobe도 추가 코멘트하고 싶은데, 오늘은 기력이 너�
 
 ㅎ....
 
-
-
 그냥... 포토샵... 일러... 하던거... 잘 하길..... 바랍니다.....
 
 세상.... 그런 DSP는 처음 봅네다....... adobe analytics은 많이 쓰는 것 같아 엄청 기대했건만...... DSP는 많은 개선이 필요해 보입니다......... (할많하않) 
 
 아, 물론 장점도 많음... 닉값하는 크리에이티브 제작 툴 측면이라던가... and so on...
 
-<br>
-
 마지막으로 DV360과 TTD 플랫폼을 카테고리마다 분류하여 한 장의 표로 정리해봤는데, 긴 글이 읽기 귀찮으신 분들은 아래 테이블을 통해 잠깐이라도 살펴 보고 선택하길 바라며, 이만 물러납니다.
 
 Management 오타는 살포시 지나가주세요. (찡긋)
 
-<br>
-
 ![DSP Review](/img/posts/05/DSP.png)
-
-<br>
 
 끝!
 
