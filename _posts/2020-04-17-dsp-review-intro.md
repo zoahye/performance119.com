@@ -6,11 +6,12 @@ date: 2020-04-17 14:30:00 +09:00
 feature: '/img/posts/05/bg-post-thumb-05.png'
 background: '/img/posts/05/bg-post-header-05.png'
 categories:
-  - intro
+  - Platform
 tags:
   - Programmatic
   - DSP
   - Display&Video360
+  - DV360
   - TheTradeDesk
   - AppNexus
   - AbobeDSP
@@ -23,7 +24,7 @@ description: 'Programmatic Trader로서 다뤄왔던 Global DSP에 대한 실사
 
 
 
-인생 첫 회사이자 바로 직전 회사였던 XAXIS KOREA. 
+인생 첫 회사이자 바로 직전 회사였던 XAXIS KOREA.
 
 명색이 글로벌 Agency Trading Desk 답게 다양한 DSP를 활용하여 광고 운영을 할 수 있었던 점이 (지금 생각해보면) 정말 좋았다. XAXIS Korea의 국내 포지션은 랩사였지만, 글로벌리 XAXIS는 원래 GroupM의 A.T.D로 GroupM 내 존재하는 여러 미디어 에이전시(Mindshare, MediaCom, Wavemaker, etc.)들의 Programmatic 광고 물량을 직접 핸들링하는 조직이다. 한국에서만 예외적으로 XAXIS는 랩 에이전시 일을 해왔는데, 그 안에서도 잡초처럼 꿋꿋이 몇 안 되는 Programmatic 광고 물량을(…) 처리하는 팀이 있었다.
 
@@ -85,7 +86,7 @@ description: 'Programmatic Trader로서 다뤄왔던 Global DSP에 대한 실사
 
 이 외에도 DV360이 가진 장/단점들이 많지만, 우선은 이정도.
 
-개인적으로 DV360은 국내에서 DSP를 처음 쓰려고 시도하는 에이전시/광고주에게 추천할 만한 플랫폼인 것 같다. 기본 구성이나 데이터들이 Google Ads와 동일한 부분이 많기 때문에 비교적 손 쉽게 Programmatic Ad Buying을 시작할 수 있는 그런 플랫폼이랄까. 
+개인적으로 DV360은 국내에서 DSP를 처음 쓰려고 시도하는 에이전시/광고주에게 추천할 만한 플랫폼인 것 같다. 기본 구성이나 데이터들이 Google Ads와 동일한 부분이 많기 때문에 비교적 손 쉽게 Programmatic Ad Buying을 시작할 수 있는 그런 플랫폼이랄까.
 
 또한, 글로벌 대형 광고주에게도 적합한 플랫폼이라고 생각이 든다. 일반적으로 글로벌 빅 광고주들은 각 마켓 단위에서 태깅을 진행하지 않고, 해드쿼터에서 GTM을 통한 태깅이 이루어 지는데, DV360 또한 구글 플랫폼이라 별도 Script 전달이 필요하지 않고 GTM 내 advertiser id, cat 등의 필수 값들만 입력하면 바로 셋팅이 가능하다. 또한, 중소기업의 경우 비용이 상당한 GA 360을 사용하기가 쉽지 않은데, 글로벌 빅 광고주들은 GA360을 통한 성과 분석을 진행하는 곳들이 꽤 많다. 때문에 광고주가 이미 Google의 Full Stack을 잘 활용하고 있는 상황이라면 DV360을 Main DSP로 추천한다.
 
@@ -97,7 +98,7 @@ description: 'Programmatic Trader로서 다뤄왔던 Global DSP에 대한 실사
 
 마찬가지로 줄여서 흔히 TTD라고들 함.
 
-TTD 또한 글로벌리 많이 사용하고 있는 DSP 중 하나로, 최근에는 중국으로도 그 시세를 확장하여 중국 내 지면에 대한 광고 전송도 가능해졌다(원래 중국은 그.. 사상 때문인지는 모르겠으나, Global DSP가 아닌 자국의 독자적인 DSP들만을 주로 써왔다. iPinYou 같은). XAXIS에 있을 때 VIDEO 캠페인은 주로 TTD를, Display 캠페인은 주로 AppNexus를 써왔었는데, 17-18년도쯤 AppNexus에서 Criteo 인벤토리가 확 빠지더니 국내로 노출되는 퀄리티있는 지면이 현저히 줄어들어, 결국 DA/Video 모두 TTD로 Serving을 하게 되었다. 
+TTD 또한 글로벌리 많이 사용하고 있는 DSP 중 하나로, 최근에는 중국으로도 그 시세를 확장하여 중국 내 지면에 대한 광고 전송도 가능해졌다(원래 중국은 그.. 사상 때문인지는 모르겠으나, Global DSP가 아닌 자국의 독자적인 DSP들만을 주로 써왔다. iPinYou 같은). XAXIS에 있을 때 VIDEO 캠페인은 주로 TTD를, Display 캠페인은 주로 AppNexus를 써왔었는데, 17-18년도쯤 AppNexus에서 Criteo 인벤토리가 확 빠지더니 국내로 노출되는 퀄리티있는 지면이 현저히 줄어들어, 결국 DA/Video 모두 TTD로 Serving을 하게 되었다.
 
 TTD의 경우 DV360과 달리 플랫폼 내에서 Zero Cost로 활용할 수 있는 매체 데이터(2nd Party Data)가 없는데, 이를 보완하기 위해서 정말 다양한 Data Provider들의 데이터가 연동되어 있다. 특히, DV360을 통한 3rd party data 사용시에는 타겟팅 하고자 하는 세그먼트 키워드를 검색창에 개별적으로 쳐서 선택하게 되어 있는데, TTD의 경우 DMP 섹션에서 다양한 옵션으로 각 데이터들이 카테고리화 되어 있어 제 3자 데이터 활용에 있어서는 정말이지 굉장히 높은 편의를 제공해준다. 또한 리포트 툴도 잘 갖추어져 있어서, 데이터를 뽑아볼 수 있는 range가 굉장히 넓다. 디테일한 항목에 대한 전환 리포트 확인이 가능하기에, CPA 캠페인 진행 시 상대적으로 상세 최적화 할 수 있는 범위가 넓다.
 
@@ -145,7 +146,7 @@ AppNexus랑 Adobe도 추가 코멘트하고 싶은데, 오늘은 기력이 너�
 
 그냥... 포토샵... 일러... 하던거... 잘 하길..... 바랍니다.....
 
-세상.... 그런 DSP는 처음 봅네다....... adobe analytics은 많이 쓰는 것 같아 엄청 기대했건만...... DSP는 많은 개선이 필요해 보입니다......... (할많하않) 
+세상.... 그런 DSP는 처음 봅네다....... adobe analytics은 많이 쓰는 것 같아 엄청 기대했건만...... DSP는 많은 개선이 필요해 보입니다......... (할많하않)
 
 아, 물론 장점도 많음... 닉값하는 크리에이티브 제작 툴 측면이라던가... and so on...
 
@@ -156,6 +157,3 @@ Management 오타는 살포시 지나가주세요. (찡긋)
 ![DSP Review](/img/posts/05/DSP.png)
 
 끝!
-
-
-
