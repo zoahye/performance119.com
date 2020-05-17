@@ -6,7 +6,7 @@ date: 2020-04-17 14:30:00 +09:00
 feature: '/img/posts/05/bg-post-thumb-05.png'
 background: '/img/posts/05/bg-post-header-05.png'
 categories:
-  - Platform
+  - platform
 tags:
   - Programmatic
   - DSP
