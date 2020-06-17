@@ -33,7 +33,7 @@ layout: default
         {% for post in site.posts limit : 5 %}
 
         <article class="post-preview">
-          <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+          <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}" onclick="gtag('event','보기',{'event_category':'글보기','event_label':'{{post.title}}'})">
             {% if post.feature %}
               <img class="post-feature" src="{{ post.feature }}" alt="">
             {% endif %}
