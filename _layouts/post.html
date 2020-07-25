@@ -60,4 +60,9 @@ layout: default
   gtag('event','보기',{'event_category':'글보기','event_label':postName});
 </script>
 
+<script>
+  var contentName='{{page.title}}';
+  fbq('track', 'ViewContent',{'event_label':contentName});
+</script>
+
 {% include disqus.html %}
