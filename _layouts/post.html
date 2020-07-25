@@ -62,7 +62,7 @@ layout: default
 
 <script>
   var contentName='{{page.title}}';
-  fbq('track', 'ViewContent',{'event_label':contentName});
+  fbq('track', 'ViewContent',{content_name:contentName});
 </script>
 
 {% include disqus.html %}
