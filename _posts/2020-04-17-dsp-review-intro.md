@@ -15,6 +15,7 @@ tags:
   - TheTradeDesk
   - AppNexus
   - AbobeDSP
+content_id: 20200417
 description: 'Programmatic Trader로서 다뤄왔던 Global DSP에 대한 실사용기와 각 플랫폼 별 장단점에 대해 살펴보고자 한다.'
 ---
 

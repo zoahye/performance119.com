@@ -14,6 +14,7 @@ tags:
   - Verification
   - AdNetwork
   - AdExchange
+content_id: 20200322
 description: '디지털 광고의 투명한 거래를 위해 활용할 수 있는 여러 3rd party tech vendor들(Measurement, Verification)과, 애드 네트워크 및 에드 익스체인지에 대한 개념과 그 종류에 대하여'
 ---
 
@@ -27,7 +28,7 @@ description: '디지털 광고의 투명한 거래를 위해 활용할 수 있�
 
 DIgital Advertising Tech Landscape 2편에서는 디지털 광고의 투명한 거래를 위해 활용할 수 있는 여러 3rd party tech vendor들(Measurement, Verification)과, 애드 네트워크 및 에드 익스체인지에 대한 개념과 그 종류에 대해 알아보고자 한다.
 
- 
+
 
 
 
@@ -45,7 +46,7 @@ ex.  Google Analytics, Nielsen, Adobe Analytics, MOAT, Metamarkets, etc.
 
 
 
-**>> 광고 효과 검증(Verification)** 
+**>> 광고 효과 검증(Verification)**
 
 상기와 같이 성과적인 측면에서 포커싱된 tech vendor가 있다면, 광고 효과 '검증'에 포커싱된 tech vendor들도 있다. Ad Verification 서비스를 사용하면 우리의 캠페인이 현재 어떠한 상황에서 어떤 조건으로 운영되고 있는지 보다 투명한 관리가 가능하다.  최근 가장 많이 사용되고 있는 검증은 바로 BAV이다. (*BAV=Brand safety, Ad fraud, Viewabiliy의 축약어)
 
@@ -75,7 +76,7 @@ Ad Network는 특정 퍼블리셔의 인벤토리를 판매할 수 있는 독점
 
 ② 이후 매체사로부터 해당하는 인벤토리를 사전에 구입하여 대카테고리화 또는 패키지화 한 후, 광고주에게 마크업된 가격(애드 네트워크사의 수수료를 추가한 금액)으로 해당 인벤토리를 재판매하게 된다.
 
-이처럼 애드 네트워크가 광고주와 매체사의 중간 매개체 역할을 하며, 광고주는 타겟 오디언스에 도달하기 위해 보다 다양한 지면을 하나의 창구를 통해 통합 구매 및 관리가 가능하게 되었으며, 매체사의 경우 다이렉트로 팔고 남는 인벤토리에 대한 수익도 추가로 가지고 갈 수 있게 되었다. 
+이처럼 애드 네트워크가 광고주와 매체사의 중간 매개체 역할을 하며, 광고주는 타겟 오디언스에 도달하기 위해 보다 다양한 지면을 하나의 창구를 통해 통합 구매 및 관리가 가능하게 되었으며, 매체사의 경우 다이렉트로 팔고 남는 인벤토리에 대한 수익도 추가로 가지고 갈 수 있게 되었다.
 
 ex. Google Display Network, EDN Plus, Cauly, Tnk, Inmonbi, etc.
 
@@ -90,8 +91,3 @@ ex. Doubleclick Ad Exchange, Appnexus, Microsoft Ad Exchange, OpenX, Rubicon, et
 
 
 이번 시간을 통해 매체사/애드 네트워트/애드 익스체인지에 대한 개념이 조금이나마 그려진다면, 다음 포스팅에서는 DSP/DMP/SSP와 Data Suppliers에 대해 조금 더 심도있게 다뤄보고자 한다.
-
-
-
-
-

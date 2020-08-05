@@ -14,6 +14,7 @@ tags:
   - DSP
   - DMP
   - SSP
+content_id: 20200405
 description: 'Programmatic Ad의 근간인 DSP, SSP, DMP(+Data Suppliers)에 대하여'
 ---
 
@@ -27,11 +28,11 @@ description: 'Programmatic Ad의 근간인 DSP, SSP, DMP(+Data Suppliers)에 대
 
 디지털 랜드스케이프 마지막 포스팅인 이번편에서는 Programmatic Ad의 근간인 DSP, SSP 그리고 DMP와 Data provider들이 제공하는 오디언스 데이터의 종류에 대해 알아보고자 한다.
 
- 
+
 
 **>>DSP(Demand Side Platform)**
 
-DSP, 즉 Demand Side Platform이라 함은 광고주 및 에이전시가 Digital Ad Marketplace(Ad exchanges, Ad networks, PMP, PG, etc.)상에서 디지털 광고 지면/인벤토리를 더 솝쉽게 구매할 수 있도록 도와주는 온라인 플랫폼이다. DSP는 하나의 플랫폼에서 A to Z까지 실행가능한 매우 똑똑하고 편리한 Ad Buying Platform이다. 
+DSP, 즉 Demand Side Platform이라 함은 광고주 및 에이전시가 Digital Ad Marketplace(Ad exchanges, Ad networks, PMP, PG, etc.)상에서 디지털 광고 지면/인벤토리를 더 솝쉽게 구매할 수 있도록 도와주는 온라인 플랫폼이다. DSP는 하나의 플랫폼에서 A to Z까지 실행가능한 매우 똑똑하고 편리한 Ad Buying Platform이다.
 
 ① DSP를 통해 국내외 광범위한 광고 인벤토리를 저렴한 가격에 손쉽게 구매할 수 있으며,
 
@@ -67,11 +68,11 @@ DMP는 다양한 Data Suppliers(데이터 공급자-쿠키 기반, 패널 데이
 
 
 
-이처럼 DSP는 여러 Data supplier들로부터 수집 및 가공한 데이터를 광고주, 매체사, 그리고 다른 여러 Ad Tech 회사들에게 일정의 수수료를 받고 이용할 수 있도록 한다.  이렇게 패키지화된 오디언스 데이터는 맞춤 타겟을 만들고 디지털 캠페인 성과를 최적화하기 위해서 사용되게 된다. 
+이처럼 DSP는 여러 Data supplier들로부터 수집 및 가공한 데이터를 광고주, 매체사, 그리고 다른 여러 Ad Tech 회사들에게 일정의 수수료를 받고 이용할 수 있도록 한다.  이렇게 패키지화된 오디언스 데이터는 맞춤 타겟을 만들고 디지털 캠페인 성과를 최적화하기 위해서 사용되게 된다.
 
-국내 굴지의 매체사/애드 네트워크사들이 자체적으로 보유한 DMP(SK planet-11번가 구매 데이터 보유, 와이더플래닛-신한카드 데이터 보유) 외에도, 글로벌리 프로그래매틱 광고에 자주 사용하고 있는 DMP는 Eyeota, Oracle(Bluekai), Adobe, Data allience, LiveRamp 등이 있으며 이 외 글로벌 광고주의 경우 자체적으로 보유한 DMP들이 있어 해당 DMP를 광고 운영에 쓰이는 DSP에 연동하여 캠페인을 진행하기도 한다. 
+국내 굴지의 매체사/애드 네트워크사들이 자체적으로 보유한 DMP(SK planet-11번가 구매 데이터 보유, 와이더플래닛-신한카드 데이터 보유) 외에도, 글로벌리 프로그래매틱 광고에 자주 사용하고 있는 DMP는 Eyeota, Oracle(Bluekai), Adobe, Data allience, LiveRamp 등이 있으며 이 외 글로벌 광고주의 경우 자체적으로 보유한 DMP들이 있어 해당 DMP를 광고 운영에 쓰이는 DSP에 연동하여 캠페인을 진행하기도 한다.
 
-Global DMP를 통해 타겟팅 가능한 오디언스 데이터 항목들은 성별/연령별로 나누어진 Demographic 데이터를 포함해 소득 수준, 직업(Professional), 관심사(Interest), 구매의도(Intent), 생애주기(며칠 이내, 몇 개월 이내 비행기 티켓을 구매한, 기저귀를 구매한 사람) 등 아주 세밀한 분야 및 단위까지도 타겟팅 가능하다. 
+Global DMP를 통해 타겟팅 가능한 오디언스 데이터 항목들은 성별/연령별로 나누어진 Demographic 데이터를 포함해 소득 수준, 직업(Professional), 관심사(Interest), 구매의도(Intent), 생애주기(며칠 이내, 몇 개월 이내 비행기 티켓을 구매한, 기저귀를 구매한 사람) 등 아주 세밀한 분야 및 단위까지도 타겟팅 가능하다.
 
 반면, 광고주 DMP를 연동하여 오디언스 타겟팅을 진행하는 경우에는 주로 1st party data(사이트 방문자, CRM data 등)를 집중 타겟팅하거나, 1st party data를 기반으로 Look-alike(유사 고객) 세그먼트를 형성하여 타겟팅하는 경우가 많다. 이 경우 주로 퍼포먼스형(Lead 생성, CPA 캠페인) 캠페인에서 사용되는 Dataset들이다. *- 사담: 글로벌 광고주 DMP로는 Adobe나 Saleforce DMP를 주로 사용하는 것 같다. (아 물론, 제 광고주만 그럴수도 있습니다..ㅎ..)*
 
@@ -87,7 +88,7 @@ SSP, Supply Side Platform은 광고주가 아닌 매체사를 위한 기술 플�
 
 
 
-SSP는 매체사들이 저마다의 수익을 최적화할 수 있도록 돕는 툴이다. 즉, 매체사들로 하여금 Ad Exchange 및 Ad Network에  자사의 인벤토리를 내놓을 때 보다 효율적으로 판매할 수 있는 플랫폼을 제공해준다. 
+SSP는 매체사들이 저마다의 수익을 최적화할 수 있도록 돕는 툴이다. 즉, 매체사들로 하여금 Ad Exchange 및 Ad Network에  자사의 인벤토리를 내놓을 때 보다 효율적으로 판매할 수 있는 플랫폼을 제공해준다.
 
 좀 더 풀어서 설명하자면, 매체사가 그들의 가용 인벤토리를 SSP에 내놓을 때 ⒜최저 입찰 금액(floor price), ⒝인벤토리 구매 대상자 뿐만 아니라 ⒞자신의 매체에 실릴 광고주 혹은 광고물 유형등을 선택하여 자사 인벤토리의 판매 선호도를 설정할 수 있게 한다.
 
@@ -98,6 +99,3 @@ SSP는 매체사들이 저마다의 수익을 최적화할 수 있도록 돕는 
 이상으로 Digital Advertising Landscape 리뷰는 끝!
 
 물론 KTX만큼 (어쩌면 더)빨리 변하는 디지털 광고 환경이라, 추후 중요 플랫폼이나 벤더가 나타나게 된다면 지속적으로 업데이트 할 예정이다. 일단 오늘은.... 여기까지....
-
-
-

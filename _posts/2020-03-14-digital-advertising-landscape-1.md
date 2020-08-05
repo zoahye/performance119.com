@@ -12,6 +12,7 @@ tags:
   - AdTech
   - DigitalAdvertising
   - Landscape
+content_id: 20200314
 description: '프로그매틱 바잉 생태계를 다루기에 앞서, 디지털 광고의 주체들과 이들로 인해 파생된 다양한 Ad tech 조직들 그리고 광고 솔루션 플랫폼과 데이터 제공 업체 등을 포괄하는 전반적인 디지털 광고 생태계에 대해 먼저 살펴보고자 한다.'
 ---
 

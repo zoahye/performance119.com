@@ -55,14 +55,20 @@ layout: default
   <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us18.list-manage.com","uuid":"a950c9034fef9cf3095142c48","lid":"9e2c591ed3","uniqueMethods":true}) })</script>
 <!-- Email 구독 팝업창 End -->
 
+
 <script>
   var postName='{{page.title}}';
   gtag('event','보기',{'event_category':'글보기','event_label':postName});
 </script>
 
-<script>
-  var contentName='{{page.title}}';
-  fbq('track', 'ViewContent',{content_name:contentName});
+<script type="text/javascript">
+  var contentTitle='{{page.title}}';
+  var contentId='{{page.content_id}}'
+  dataLayer.push({
+        'event' : 'ViewContent',
+        'content_title' : 'contentTitle'
+        'content_id' : 'contentId'
+      });
 </script>
 
 {% include disqus.html %}
